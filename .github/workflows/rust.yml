@@ -23,7 +23,7 @@ jobs:
     - name: Check style
       run: cargo fmt -- --check
 
-  check-without-cockroach:
+  check:
     runs-on: ubuntu-latest
     steps:
     # actions/checkout@v2
