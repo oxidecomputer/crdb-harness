@@ -14,7 +14,7 @@ async-trait = "0.1.82"
 camino = "1.1"
 camino-tempfile = "1.1"
 futures = "0.3"
-libc = "0.2.158"
+libc = "0.2.159"
 thiserror = "1.0"
 tokio = { version = "1.32", default-features = false, features = [ "fs", "macros", "rt-multi-thread", "process" ] }
 tokio-postgres = { version = "0.7", features = [ "with-chrono-0_4", "with-uuid-1" ] }
