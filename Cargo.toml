@@ -1,7 +1,7 @@
 [package]
 name = "crdb-harness"
 description = "Test Harness for CockroachDB"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Sean Klein <sean@oxide.computer>"]
 edition = "2021"
 license = "MIT"
