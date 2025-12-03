@@ -10,7 +10,7 @@ keywords = ["test", "database", "cockroach"]
 
 [dependencies]
 anyhow = "1.0"
-async-trait = "0.1.88"
+async-trait = "0.1.89"
 camino = "1.1"
 camino-tempfile = "1.1"
 futures = "0.3"
